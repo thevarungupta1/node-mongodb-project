@@ -1,0 +1,45 @@
+{
+    "error": false,
+    "count": 4,
+    "data": [{
+            "position": 1,
+            "status": true,
+            "_id": "5da4a6a6e5617d0fc85424d0",
+            "catId": 1,
+            "catName": "Beverages",
+            "catImage": "",
+            "catDescription": "",
+            "__v": 0
+        },
+        {
+            "position": 1,
+            "status": true,
+            "_id": "5da4a6bbe5617d0fc85424d1",
+            "catId": 2,
+            "catName": "Dairy",
+            "catImage": "",
+            "catDescription": "",
+            "__v": 0
+        },
+        {
+            "position": 1,
+            "status": true,
+            "_id": "5da4a6cae5617d0fc85424d2",
+            "catId": 3,
+            "catName": "Fruits & Vegetables",
+            "catImage": "",
+            "catDescription": "",
+            "__v": 0
+        },
+        {
+            "position": 1,
+            "status": true,
+            "_id": "5da4a6d6e5617d0fc85424d3",
+            "catId": 4,
+            "catName": "Bakery",
+            "catImage": "",
+            "catDescription": "",
+            "__v": 0
+        }
+    ]
+}

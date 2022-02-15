@@ -1,0 +1,118 @@
+{
+    "error": false,
+    "count": 10,
+    "data": [{
+            "status": true,
+            "position": 1,
+            "_id": "5da4a8473172e02c2cb7caa8",
+            "catId": 1,
+            "catName": "Beverages",
+            "subId": 1,
+            "subName": "Soft Drinks",
+            "subImage": "",
+            "subDescription": "",
+            "__v": 0
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4a877db0c6927a454851d",
+            "catId": 1,
+            "catName": "Beverages",
+            "subId": 2,
+            "subName": "Fruit Juices",
+            "subImage": "",
+            "subDescription": "",
+            "__v": 0
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4a888db0c6927a454851e",
+            "catId": 1,
+            "catName": "Beverages",
+            "subId": 3,
+            "subName": "Coffee",
+            "subImage": "",
+            "subDescription": "",
+            "__v": 0
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4a9b063a65683fd2814e9",
+            "catId": 2,
+            "catName": "Dairy",
+            "subId": 4,
+            "subName": "Milk",
+            "subImage": "",
+            "subDescription": ""
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4a9b063a65683fd2814ea",
+            "catId": 2,
+            "catName": "Dairy",
+            "subId": 5,
+            "subName": "Cheese",
+            "subImage": "",
+            "subDescription": ""
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4a9b063a65683fd2814eb",
+            "catId": 2,
+            "catName": "Dairy",
+            "subId": 6,
+            "subName": "Yogurt",
+            "subImage": "",
+            "subDescription": ""
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4aa9e63a65683fd2814ec",
+            "catId": 3,
+            "catName": "Fruits & Vegetables",
+            "subId": 7,
+            "subName": "Fruits",
+            "subImage": "",
+            "subDescription": ""
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4aa9e63a65683fd2814ed",
+            "catId": 3,
+            "catName": "Fruits & Vegetables",
+            "subId": 8,
+            "subName": "Vegetables",
+            "subImage": "",
+            "subDescription": ""
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4abb663a65683fd2814ee",
+            "catId": 4,
+            "catName": "Bakery",
+            "subId": 9,
+            "subName": "Cookies",
+            "subImage": "",
+            "subDescription": ""
+        },
+        {
+            "status": true,
+            "position": 1,
+            "_id": "5da4abb663a65683fd2814ef",
+            "catId": 4,
+            "catName": "Bakery",
+            "subId": 10,
+            "subName": "Desserts",
+            "subImage": "",
+            "subDescription": ""
+        }
+    ]
+}

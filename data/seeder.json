@@ -1,0 +1,379 @@
+[{
+        "catId": 1,
+        "catName": "Beverages"
+    },
+    {
+        "catId": 2,
+        "catName": "Dairy"
+    },
+    {
+        "catId": 3,
+        "catName": "Fruits & Vegetables"
+    },
+    {
+        "catId": 4,
+        "catName": "Bakery"
+    }
+]
+
+
+[{
+        "catId": 1,
+        "subId": 1,
+        "subName": "Soft Drinks"
+    },
+    {
+        "catId": 1,
+        "subId": 2,
+        "subName": "Fruit Juices"
+    },
+    {
+        "catId": 1,
+        "subId": 3,
+        "subName": "Coffee"
+    },
+    {
+        "catId": 2,
+        "subId": 4,
+        "subName": "Milk"
+    },
+    {
+        "catId": 2,
+        "subId": 5,
+        "subName": "Cheese"
+    },
+    {
+        "catId": 2,
+        "subId": 6,
+        "subName": "Yogurt"
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "subName": "Fruits"
+    },
+    {
+        "catId": 3,
+        "subId": 8,
+        "subName": "Vegetables"
+    },
+    {
+        "catId": 4,
+        "subId": 9,
+        "subName": "Cookies"
+    },
+    {
+        "catId": 4,
+        "subId": 10,
+        "subName": "Desserts"
+    }
+]
+
+
+
+
+
+[{
+        "catId": 1,
+        "subId": 1,
+        "productName": "Coca-Cola Soda, 2L",
+        "image": "coca_cola_2.jpeg",
+        "unit": "2L",
+        "price": 1.65,
+        "mrp": 2.00,
+        "description": "Bring home the refreshing taste of Coca-Cola with the Coca-Cola Soda, 2L. It goes well with meals, on the go or to share with family, friends or co-workers. For crisp, cold taste, serve this delicious soda chilled at 37 degrees. It doesn't contain artificial flavors or preservatives since 1886. This 2-liter soda has low sodium and a caramel color. It contains 140 calories and 34mg of caffeine."
+    },
+    {
+
+        "catId": 1,
+        "subId": 1,
+        "productName": "Fanta Caffeine-Free Orange Soda, 2 L",
+        "image": "fanta_2.jpeg",
+        "unit": "2L",
+        "price": 1.25,
+        "mrp": 1.50,
+        "description": "Refresh yourself with the wonderful and bubbly fruity taste of Fanta Orange Soda. It contains all natural flavors and is caffeine free. This Fanta soft drink, 2l contains no fat and is low in sodium.Fanta Orange Soda: 100% natural flavorsCaffeine freeVery low sodiumFanta soda is fat free"
+    },
+    {
+        "catId": 1,
+        "subId": 1,
+        "productName": "Pepsi Soda, 2 Liter Bottle",
+        "image": "pepsi_2.jpeg",
+        "unit": "2L",
+        "price": 1.55,
+        "mrp": 1.75,
+        "description": "The bold, refreshing cola born in New Bern, NC in 1898 and still bottled in the USA."
+    },
+    {
+        "catId": 1,
+        "subId": 1,
+        "productName": "Sprite Caffeine-Free Lemon-Lime Soda, 2 L",
+        "image": "sprite_2.jpeg",
+        "unit": "2L",
+        "price": 1.65,
+        "mrp": 2.00,
+        "description": "Introduced in 1961, Sprite is the world's leading lemon-lime flavored soft drink. It has a crisp, clean taste that really quenches your thirst."
+    },
+    {
+        "catId": 1,
+        "subId": 1,
+        "subName": "Soft Drinks",
+        "productName": "Mountain Dew Original, 2 Liter Bottle",
+        "image": "dew_2.jpeg",
+        "unit": "2L",
+        "price": 1.65,
+        "mrp": 2.00,
+        "description": "The original, the one that started it all. Mtn Dew exhilarates and quenches its a one of a kind taste. Experience the crisp, bold lemon lime flavor. Perfect to bring chuggable refreshment to your next party or gathering."
+    },
+    {
+        "catId": 1,
+        "subId": 2,
+        "productName": "Minute Maid Premium Fruit Punch, 1.8 Quart, 59 Fl. Oz",
+        "image": "minute_main_fruit.jpeg",
+        "unit": "1.75L",
+        "price": 1.5,
+        "mrp": 2.00,
+        "description": "Minute Maid® Premium Fruit Punch. Made with real fruit juice, a 5% juice blend of grape, pineapple, pear and apple juices from concentrate. It contains no preservatives."
+    },
+    {
+        "catId": 1,
+        "subId": 2,
+        "productName": "Minute Maid, Premium Strawberry Lemonade, 59 Fl. Oz.",
+        "image": "minute_main_strawberry.jpeg",
+        "unit": "1.75L",
+        "price": 1.5,
+        "mrp": 2.00,
+        "description": "Minute Maid® Premium Strawberry Lemonade. Natural strawberry flavor with other natural flavors. Contains 3% juice blend. This is a blend of lemon and strawberry juices from concentrate and other ingredients. Pasteurized. Contains no added preservatives. This is with minute maid strawberry lemonade, you can taste that goodness in every last drop. The refreshingly delicious taste of good times."
+    },
+    {
+        "catId": 1,
+        "subId": 2,
+        "productName": "Minute Maid, Premium Berry Punch, 59 Fl. Oz.",
+        "image": "minute_main_berry.jpeg",
+        "unit": "1.75L",
+        "price": 1.5,
+        "mrp": 2.00,
+        "description": ""
+    },
+    {
+        "catId": 1,
+        "subId": 2,
+        "productName": "Minute Maid, Premium Fruit Drink Peach, 59 Fl. Oz.",
+        "image": "minute_main_peach.jpeg",
+        "unit": "1.75L",
+        "price": 1.5,
+        "mrp": 2.00,
+        "description": "Minute Maid® Premium Fruit Drink Peach. The product is made with real fruit. The product is flavored with other natural flavors. Made with 100% natural flavors. The product is pasteurized. There are no preservatives added. The product is a blend of apple and peach juices from concentrate and other ingredients."
+    },
+    {
+        "catId": 1,
+        "subId": 2,
+        "productName": "Tropicana Pure Premium, No Pulp 100% Orange Juice, 8 Fl. Oz., 6 Count",
+        "image": "tropicana_pure.jpeg",
+        "unit": "3.67L",
+        "price": 1.5,
+        "mrp": 2.00,
+        "description": "The perfect combination of taste and nutrition! Tropicana Pure PremiumOriginal is 100% pure Florida orange juice, squeezed from fresh-picked oranges and never from concentrate. No wonder its the #1 orange juice brand."
+    },
+    {
+        "catId": 1,
+        "subId": 3,
+        "productName": "Starbucks Breakfast Blend Medium Roast Ground Coffee",
+        "image": "starbuck_coffee_12.jpeg",
+        "unit": "12-Ounce Bag",
+        "price": 6.25,
+        "mrp": 6.75,
+        "description": "A shade lighter than most of our offerings--more toasty than roasty--it was the result of playing with roast and taste profiles together for a flavor that appealed to a wider range of palates. Perfect if you want to wake up to a less-intense coffee but still want a lot of character; it's lively with a citrusy tang that gives way to a clean finish."
+    },
+    {
+        "catId": 1,
+        "subId": 3,
+        "productName": "Dunkin' Donuts Original Blend Ground Coffee, Medium Roast",
+        "image": "dunkin_donuts_12.jpeg",
+        "unit": "12-Ounce Bag",
+        "price": 5.85,
+        "mrp": 6.00,
+        "description": "Enjoy sipping on a mug of Dunkin' Donuts Original Blend Ground Coffee. This coffee is smooth and flavorful, which makes it ideal for drinking at breakfast time or throughout the day. This Dunkin' Donuts original blend coffee is 100% premium Arabica and is suitable for preparing hot or iced. Choose between the ground or whole bean variety for a desirable cup that satisfies. It comes in a 12 oz bag that can be rolled down and sealed for lasting freshness. It's a medium roast, which is ideal for serving to guests or enjoying alone."
+    },
+    {
+        "catId": 1,
+        "subId": 3,
+        "productName": "Folgers Classic Roast Ground Coffee, Medium Roast",
+        "image": "folgers_coffee_5.jpeg",
+        "unit": "30.5-Ounce",
+        "price": 7.50,
+        "mrp": 8.00,
+        "description": "Made from Mountain Grown beans, the world’s richest and most aromatic. Folgers Classic Roast Coffee has been The Best Part of Wakin’ Up for more than 150 years."
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "productName": "Organic Bananas",
+        "image": "bananas.jpeg",
+        "unit": "Bunch",
+        "price": 1.50,
+        "mrp": 2.00,
+        "description": "Enjoy a serving of fresh healthy organic fruits with Marketside Organic Bananas. Bananas are known to contain a high amount of vitamin B6 and moderate amounts of other vitamins and minerals. Have them at breakfast, or anytime you want a snack. Slice them and add them to fruit salads, ice-cream, yogurt, milkshakes, or serve with cereal, pancakes and waffles. You can also use them as a topping for cheesecakes or for use in other dessert recipes."
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "productName": "Watermelon Seedless",
+        "image": "watermelon.jpeg",
+        "unit": "Each",
+        "price": 4.65,
+        "mrp": 5.00,
+        "description": "Sugarland Seedless Watermelon"
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "productName": "Fresh Strawberries",
+        "image": "strawberries.jpeg",
+        "unit": "1 Lb",
+        "price": 1.65,
+        "mrp": 2.00,
+        "description": "The sweet, juicy flavor of Fresh Strawberries make them a refreshing and delicious treat. Enjoy them for breakfast, lunch, dinner, or dessert. Use them as topping for pancakes, bake them in a mouthwatering bread, mix them with cucumbers for a light and flavorful salad, or puree them for strawberry shortcake. They contain essential vitamins and nutrients like vitamin C, fiber, potassium, vitamin B and magnesium, making them perfect for a healthy diet. Gently wash the strawberries and remove the leafy caps prior to serving, and enjoy the fresh taste. Refrigerate the berries to keep them fresh and ready for use. Pick up Fresh Strawberries today and savor the delectable flavor."
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "productName": "Green Seedless Grapes",
+        "image": "grapes.jpeg",
+        "unit": "Bag",
+        "price": 2.90,
+        "mrp": 3.00,
+        "description": "The sweet, juicy flavor of Fresh Strawberries make them a refreshing and delicious treat. Enjoy them for breakfast, lunch, dinner, or dessert. Use them as topping for pancakes, bake them in a mouthwatering bread, mix them with cucumbers for a light and flavorful salad, or puree them for strawberry shortcake. They contain essential vitamins and nutrients like vitamin C, fiber, potassium, vitamin B and magnesium, making them perfect for a healthy diet. Gently wash the strawberries and remove the leafy caps prior to serving, and enjoy the fresh taste. Refrigerate the berries to keep them fresh and ready for use. Pick up Fresh Strawberries today and savor the delectable flavor."
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "productName": "Gala Apples",
+        "image": "apple.jpeg",
+        "unit": "Each",
+        "price": 0.75,
+        "mrp": 1.00,
+        "description": "Gala Apples"
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "productName": "Yellow Peach",
+        "image": "peach.jpeg",
+        "unit": "Each",
+        "price": 0.75,
+        "mrp": 1.00,
+        "description": "Yellow Peach"
+    },
+    {
+        "catId": 3,
+        "subId": 7,
+        "productName": "Pineapple",
+        "image": "pineapple.jpeg",
+        "unit": "Each",
+        "price": 1.85,
+        "mrp": 2.00,
+        "description": "Northgate Gonzalez Premium Gold Extra Dulce Pina Miel. Gasperin® Premium Gold Extra Dulce Pina Miel. Fresh."
+    },
+    {
+        "catId": 3,
+        "subId": 8,
+        "productName": "Tomatoes",
+        "image": "tomatoes.jpeg",
+        "unit": "Each",
+        "price": 0.25,
+        "mrp": 0.50,
+        "description": ""
+    },
+    {
+        "catId": 3,
+        "subId": 8,
+        "productName": "Red Onions",
+        "image": "onions.jpeg",
+        "unit": "Each",
+        "price": 1.75,
+        "mrp": 2.00,
+        "description": ""
+    },
+    {
+        "catId": 3,
+        "subId": 8,
+        "productName": "Iceberg Lettuce",
+        "image": "lettuce.jpeg",
+        "unit": "Each",
+        "price": 1.25,
+        "mrp": 1.35,
+        "description": ""
+    },
+    {
+        "catId": 3,
+        "subId": 8,
+        "productName": "Green Bell Pepper",
+        "image": "bell_pepper.jpeg",
+        "unit": "Each",
+        "price": 0.55,
+        "mrp": 1.00,
+        "description": ""
+    },
+    {
+        "catId": 3,
+        "subId": 8,
+        "productName": "Cauliflower",
+        "image": "cauliflower.jpeg",
+        "unit": "Each",
+        "price": 2.50,
+        "mrp": 2.50,
+        "description": ""
+    },
+    {
+        "catId": 3,
+        "subId": 8,
+        "productName": "Russet Baking Potatoes",
+        "image": "potatoes.jpeg",
+        "unit": "Each",
+        "price": 0.45,
+        "mrp": 0.50,
+        "description": ""
+    },
+    {
+        "catId": 4,
+        "subId": 9,
+        "productName": "Nabisco Oreo Double Stuf Cookies Family Size",
+        "image": "oreo_double.jpeg",
+        "unit": "Each",
+        "price": 3.50,
+        "mrp": 4.00,
+        "description": "Take a delicious break with Oreo Double Stuf Cookies. This Oreo variety sandwiches a double helping of rich creme between the bold taste of two chocolate wafers--making them milks favorite cookie."
+    },
+    {
+        "catId": 4,
+        "subId": 9,
+        "productName": "Nabisco Ritz Original Classic Crackers",
+        "image": "ritz.jpeg",
+        "unit": "Each",
+        "price": 2.65,
+        "mrp": 3.00,
+        "description": "Whether youre snacking on your own or creating a delicious treat for others, flaky Original flavor Ritz Crackers are the American classic thats enjoyed around the world."
+    },
+    {
+        "catId": 4,
+        "subId": 10,
+        "productName": "The Bakery Mini Cherry Pie, 4",
+        "image": "bakery_mini_cherry.jpeg",
+        "unit": "Each",
+        "price": 0.5,
+        "mrp": 1.00,
+        "description": "The Bakery Cherry Mini Pie is delicious combination of fresh cherries and high quality flour in a recipe that has been an American favorite. This Mini Cherry Pie with its depth of flavor and nicely textured crust will remind you of the homemade cherry pie, which is the classic and quintessential American dessert. It is a great company to your morning tea or coffee and can also be had as a quick afternoon snack or an after-dinner dessert. This delicious pie will be the perfect addition to your next potluck or picnic meal. Add a whole new level of sweetness, flavor and excitement to your celebrations with The Bakery Cherry Mini Pie."
+    },
+    {
+
+        "catId": 4,
+        "subId": 10,
+        "productName": "The Bakery Mini Blueberry Pie",
+        "image": "bakery_mini_blueberry.jpeg",
+        "unit": "Each",
+        "price": 0.5,
+        "mrp": 1.00,
+        "description": "Indulge your sweet tooth with a delicious slice of The Bakery Mini Blueberry Pie. It features a delicious combination of fresh blueberries and high quality flour. Made with a traditional formula, the individual blueberry pie offers a depth of flavor and a nicely textured crust that will remind you of a homemade pie. It makes a delectable complement to your morning tea or coffee and can also be enjoyed as a quick afternoon snack or an after-dinner dessert. Bring the blueberry pie to your next potluck or picnic meal. This package contains one mini pie, which measures 4 in diameter. Other flavors are available and sold separately. Buy one or multiple pies depending on your needs."
+    }
+]
